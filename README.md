@@ -72,4 +72,21 @@ Butte Formations (Paleocene), Billings County, North Dakota</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(40).pdf" style="text-decoration:none;">Bentonite, Kaolin, and Selected Clay Minerals</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(41).pdf" style="text-decoration:none;">Glossary of Clay Science</a></li>   
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(42).pdf" style="text-decoration:none;">Clay Materials for Environmental Remediation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(43).pdf" style="text-decoration:none;">Clay Mineral Catalysis of Organic Reactions</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(44).pdf" style="text-decoration:none;">Create a Polymer Clay Impression</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(45).pdf" style="text-decoration:none;"> Geology of Clays - Weathering · Sedimentology · Geochemistry</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(46).pdf" style="text-decoration:none;">Introduction to Clay Minerals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(47).pdf" style="text-decoration:none;">Soft Clay Engineering</a></li>   
+                          
+ <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(48).pdf" style="text-decoration:none;"> Bearing Capacity and Immediate Settlement of Shallow Foundation on Clay</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(49).pdf" style="text-decoration:none;">The Healing Art of Clay Therapy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(50).pdf" style="text-decoration:none;">The Polymer Clay Techniques</a></li>   
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(51).pdf" style="text-decoration:none;">X-Ray Diffraction and the Identification and Analysis of Clay Minerals</a></li>   
+
 </ul> 
