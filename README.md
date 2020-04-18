@@ -2,7 +2,36 @@
 <div class="thumb tright">&nbsp;</div>
 <p>Although many naturally occurring deposits include both silts and clay, clays are distinguished from other fine-grained soils by differences in size and mineralogy.&nbsp;<a title="Silt" href="https://en.wikipedia.org/wiki/Silt">Silts</a>, which are fine-grained soils that do not include clay minerals, tend to have larger particle sizes than clays. There is, however, some overlap in particle size and other physical properties. The distinction between silt and clay varies by discipline.&nbsp;<a title="Geologist" href="https://en.wikipedia.org/wiki/Geologist">Geologists</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Soil scientist" href="https://en.wikipedia.org/wiki/Soil_scientist">soil scientists</a>&nbsp;usually consider the separation to occur at a particle size of 2&nbsp;<a title="Micrometre" href="https://en.wikipedia.org/wiki/Micrometre">&mu;m</a>&nbsp;(clays being finer than silts),&nbsp;<a class="mw-redirect" title="Sedimentologist" href="https://en.wikipedia.org/wiki/Sedimentologist">sedimentologists</a>&nbsp;often use 4&ndash;5 &mu;m, and&nbsp;<a title="Colloid" href="https://en.wikipedia.org/wiki/Colloid">colloid</a>&nbsp;<a title="Chemist" href="https://en.wikipedia.org/wiki/Chemist">chemists</a>&nbsp;use 1 &mu;m.&nbsp;<a title="Geotechnical engineering" href="https://en.wikipedia.org/wiki/Geotechnical_engineering">Geotechnical engineers</a>&nbsp;distinguish between silts and clays based on the plasticity properties of the soil, as measured by the soils'&nbsp;<a title="Atterberg limits" href="https://en.wikipedia.org/wiki/Atterberg_limits">Atterberg limits</a>.&nbsp;<a title="International Organization for Standardization" href="https://en.wikipedia.org/wiki/International_Organization_for_Standardization">ISO</a>&nbsp;14688 grades clay particles as being smaller than 2 &mu;m and silt particles as being larger. Mixtures of&nbsp;<a title="Sand" href="https://en.wikipedia.org/wiki/Sand">sand</a>,&nbsp;<a title="Silt" href="https://en.wikipedia.org/wiki/Silt">silt</a>&nbsp;and less than 40% clay are called&nbsp;<a title="Loam" href="https://en.wikipedia.org/wiki/Loam">loam</a>.</p>
 
+</br>
 
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Formation"><span class="toctext">Formation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Grouping"><span class="toctext">Grouping</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Identification"><span class="toctext">Identification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#X-ray_diffraction"><span class="toctext">X-ray diffraction</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Chemical"><span class="toctext">Chemical</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Historical_and_modern_uses"><span class="toctext">Historical and modern uses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Medical_use"><span class="toctext">Medical use</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#As_a_building_material"><span class="toctext">As a building material</span></a></li>
+</ul>
+</li>
+
+<li class="toclevel-1 tocsection-1"><a href="#Books"><span class="toctext">Books</span></a></li>
+
+</ul>
+
+
+
+
+
+</br>
 
 
 
