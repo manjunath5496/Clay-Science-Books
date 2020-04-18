@@ -67,7 +67,7 @@ Butte Formations (Paleocene), Billings County, North Dakota</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(38).pdf" style="text-decoration:none;">Physico-Chemical Characterization of Raw Clays Used in Pottery at Ilesi in Kakamega County - Kenya</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(39).pdf" style="text-decoration:none;"> Leadership, Innovation and Entrepreneurship as Driving Forces of the Global Economy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(39).pdf" style="text-decoration:none;"> Clay in Engineering Geology</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(40).pdf" style="text-decoration:none;">Bentonite, Kaolin, and Selected Clay Minerals</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(41).pdf" style="text-decoration:none;">Glossary of Clay Science</a></li>   
