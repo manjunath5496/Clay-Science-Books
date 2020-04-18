@@ -95,5 +95,4 @@ Butte Formations (Paleocene), Billings County, North Dakota</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(54).pdf" style="text-decoration:none;">Origin and Mineralogy of Clays</a></li>   
 
-
 </ul> 
