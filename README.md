@@ -87,6 +87,13 @@ Butte Formations (Paleocene), Billings County, North Dakota</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(49).pdf" style="text-decoration:none;">The Healing Art of Clay Therapy</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(50).pdf" style="text-decoration:none;">The Polymer Clay Techniques</a></li>   
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(51).pdf" style="text-decoration:none;">X-Ray Diffraction and the Identification and Analysis of Clay Minerals</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(51).pdf" style="text-decoration:none;">X-Ray Diffraction and the Identification and Analysis of Clay Minerals</a></li>
+ 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(52).pdf" style="text-decoration:none;">Make Animal Sculptures with Paper Mache Clay</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(53).pdf" style="text-decoration:none;">Applied Clay Mineralogy</a></li>   
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Clay-Science-Books/blob/master/clay(54).pdf" style="text-decoration:none;">Origin and Mineralogy of Clays</a></li>   
+
 
 </ul> 
